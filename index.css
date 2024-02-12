@@ -1,12 +1,12 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color:antiquewhite;
+    background-color:#faead6;
     font-family: 'Rubik', sans-serif;
     color: #432000;
 }
 
-.container { background-color:antiquewhite;
+.container { background-color:#faebd7;
     display: flex;
     flex-direction: column;
     max-width: 320px;
