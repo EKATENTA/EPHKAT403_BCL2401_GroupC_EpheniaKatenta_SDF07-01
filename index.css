@@ -6,8 +6,11 @@ html, body {
     color: #432000;
 }
 
-.container { background-color:#faebd7;
-    display: flex;
+ HEAD
+.container { background-color:#faebd7;}
+
+.container { background-color:#faead6;
+    display : flex;
     flex-direction: column;
     max-width: 320px;
     margin: 30px auto;
